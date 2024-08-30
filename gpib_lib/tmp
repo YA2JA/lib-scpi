@@ -1,0 +1,17 @@
+[project]
+
+name="easy_gpib"
+version='0.0.1'
+authors=[
+    {name='Jakob OGANESYAN', email='jakoganesyan+easygpibpackage@gmail.com'}
+]
+
+description=''
+readme='README.md'
+requires-python = '>=3.8'
+
+classifiers = [
+    'SCPI LANGUEGE',
+    'GPIB', 
+    'HP DEVICE MANIPULATION',
+]

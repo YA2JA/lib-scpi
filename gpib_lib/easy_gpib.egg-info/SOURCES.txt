@@ -1,0 +1,9 @@
+setup.py
+easy_gpib/__init__.py
+easy_gpib/driver.py
+easy_gpib/instruments.py
+easy_gpib/typing.py
+easy_gpib.egg-info/PKG-INFO
+easy_gpib.egg-info/SOURCES.txt
+easy_gpib.egg-info/dependency_links.txt
+easy_gpib.egg-info/top_level.txt
